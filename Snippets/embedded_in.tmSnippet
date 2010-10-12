@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>embedded_in :${1:object}${2:, :inverse_of =&gt; :${3:object}}</string>
+	<key>name</key>
+	<string>embedded_in</string>
+	<key>scope</key>
+	<string>source.ruby.rails</string>
+	<key>tabTrigger</key>
+	<string>emi</string>
+	<key>uuid</key>
+	<string>6E61B3DE-62BF-4388-88BC-3382BA79727A</string>
+</dict>
+</plist>
