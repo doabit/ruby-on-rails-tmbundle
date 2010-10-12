@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>field :${1:field}${2:, :type =&gt; ${3:Array|BigDecimal|Boolean|Date|DateTime|Float|Hash|Integer|String|Symbol|Time}}$0</string>
+	<string>include Mongoid::Document</string>
 	<key>name</key>
-	<string>field</string>
+	<string>include Mongoid::Document</string>
 	<key>scope</key>
 	<string>source.ruby.rails</string>
 	<key>tabTrigger</key>
-	<string>fie</string>
+	<string>imd</string>
 	<key>uuid</key>
-	<string>6BFAA023-6F05-4A48-A465-A2CC3F820ECC</string>
+	<string>AF66B583-BA61-4877-8D73-101C2D42B520</string>
 </dict>
 </plist>
